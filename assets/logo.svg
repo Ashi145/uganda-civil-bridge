@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48" role="img" aria-labelledby="ugcbTitle ugcbDesc">
+  <title id="ugcbTitle">UG Civil Bridge temporary brand mark</title>
+  <desc id="ugcbDesc">A bridge arch and location pin representing a clear connection between citizens and responsible public-service organisations.</desc>
+  <rect width="48" height="48" rx="12" fill="#0B2B2F"/>
+  <path d="M10 31c4-8 24-8 28 0" fill="none" stroke="#E9F5F0" stroke-width="2.6" stroke-linecap="round"/>
+  <path d="M8 35.5h32" stroke="#59C3AE" stroke-width="2.4" stroke-linecap="round"/>
+  <path d="M16 31v4.5M24 28v7.5M32 31v4.5" stroke="#E9F5F0" stroke-width="1.8" stroke-linecap="round" opacity=".75"/>
+  <circle cx="24" cy="15" r="6" fill="#59C3AE"/>
+  <circle cx="24" cy="15" r="2.2" fill="#0B2B2F"/>
+</svg>
